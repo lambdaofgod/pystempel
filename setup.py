@@ -2,7 +2,7 @@ import os
 
 from setuptools import find_packages, setup
 
-REQUIRED_PYTHON = [3, 7]
+REQUIRED_PYTHON = [3, 6]
 version = '1.0.1'
 
 
